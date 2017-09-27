@@ -1,0 +1,26 @@
+.header{
+heihgt: 300px;
+background: blue;
+}
+.content{
+    height: 500px;
+    width: 60%;
+    float: left;
+    background: #987455;
+}
+.sidebar{
+    height: 500px;
+    width: 40%;
+    background: #599678;
+    float: right;
+}
+.footer{
+    height: 130px;
+    background: rebeccapurple;
+    clear: both;
+}
+body{
+padding: 0px;
+margin: 0x;
+text-align: center;
+}
